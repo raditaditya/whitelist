@@ -1,6 +1,7 @@
 {
   "whitelist": [
     "167.71.210.244",
-    "NEW_IP_ADDRESS"
+    "NEW_IP_ADDRESS",
+    "123.456.789.012"
   ]
 }
